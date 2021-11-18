@@ -1,0 +1,10 @@
+enums\InputMethod.class
+utility\Comparer.class
+objects\JsonCompareObject$1.class
+objects\JsonCompareObject.class
+utility\MessageDisplayer$1.class
+utility\Settings.class
+Comparison.class
+utility\MessageDisplayer.class
+enums\ComparisonResult.class
+objects\ComparisonObject.class
